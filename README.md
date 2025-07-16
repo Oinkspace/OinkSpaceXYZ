@@ -1,60 +1,63 @@
 # 🐷 OinkSpace
 
-**DeFi Inteligente e Simplificado para Todos.**
+**Smart and Simplified DeFi for Everyone.**
 
 ---
 
-## O que é o OinkSpace?
+## What is OinkSpace?
 
-OinkSpace é uma plataforma inovadora projetada para democratizar o acesso ao universo das Finanças Descentralizadas (DeFi). Nossa missão é tornar o investimento em criptomoedas e a participação em estratégias DeFi complexas algo **simples, acessível e altamente eficaz**, mesmo para quem não tem conhecimento técnico aprofundado.
+OinkSpace is an innovative platform designed to democratize access to the universe of Decentralized Finance (DeFi). Our mission is to make investing in cryptocurrencies and participating in complex DeFi strategies **simple, accessible, and highly effective**, even for those with no in-depth technical knowledge.
 
-Inspirados pela ideia de um "cofrinho inteligente", o OinkSpace oferece ferramentas automatizadas para você investir, gerar renda passiva e construir seu patrimônio de forma segura e intuitiva.
+Inspired by the idea of a "smart piggy bank," OinkSpace offers automated tools for you to invest, generate passive income, and build your wealth securely and intuitively.
 
-## 😟 O Problema que Resolvemos
+## 😟 The Problem We Solve
 
-O ecossistema DeFi é vasto e cheio de oportunidades, mas sua complexidade inerente ainda é uma grande barreira para muitos:
-*   **Curva de Aprendizado Íngreme:** Jargões técnicos e interfaces confusas.
-*   **Gestão Ativa Exigente:** Estratégias lucrativas demandam tempo e conhecimento para acompanhamento constante.
-*   **Complexidade Operacional:** Dificuldade em interagir com múltiplos protocolos e gerenciar riscos.
+The DeFi ecosystem is vast and full of opportunities, but its inherent complexity remains a significant barrier for many:
+*   **Steep Learning Curve:** Technical jargon and confusing interfaces.
+*   **Demanding Active Management:** Profitable strategies require time and knowledge for constant monitoring.
+*   **Operational Complexity:** Difficulty in interacting with multiple protocols and managing risks.
 
-OinkSpace foi criado para superar esses desafios!
+OinkSpace was created to overcome these challenges!
 
-## ✨ Nossas Soluções Principais
+## ✨ Our Core Solutions
 
-Oferecemos um conjunto de ferramentas inteligentes e automatizadas:
+We offer a suite of intelligent and automated tools:
 
-### 🥞 Stack OinkSpace
-Uma forma revolucionária de investimento programado (DCA) em criptoativos. O Stack não apenas compra automaticamente nas quedas, mas também utiliza lógica de proteção de tendência (baseada em indicadores como o RSI) para otimizar os pontos de venda e protege seu capital não alocado, fazendo-o render em pools de stablecoins. **Configure uma vez, e deixe o Stack trabalhar por você.**
+### 🥞 OinkSpace Stack
+A revolutionary way for programmed (DCA) investment in crypto assets. The Stack not only buys automatically on dips but also uses trend-following protection logic (based on indicators like RSI) to optimize sell points and protects your unallocated capital by making it earn yield in stablecoin pools. **Set it once, and let the Stack work for you.**
 
-### 💧 Pools Automatizadas OinkSpace
-Simplificamos radicalmente a provisão de liquidez em DEXes como a Uniswap V3. Deposite apenas um token do par desejado, e nosso sistema define o melhor range de preço, gerencia ativamente sua posição e reinveste as taxas de swap automaticamente, maximizando seus retornos e minimizando o estresse.
+**The Stack's Automated Workflow:**
+![OinkSpace Stack Automated Workflow](https://oinkspace.gitbook.io/oinkspace/~gitbook/image?url=https%3A%2F%2F2905769461-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxoaMn8gdiFse9uoUjYFO%252Fuploads%252Fm71tbpdVb9BuJijcTTWb%252Fshapes%2520at%252025-07-16%252010.16.01.png%3Falt%3Dmedia%26token%3Da523a01b-f3c9-4912-aa78-ba0a02652e05&width=768&dpr=1&quality=100&sign=a450565d&sv=2)
 
-## 🚀 Principais Diferenciais
+### 💧 OinkSpace Automated Pools
+We radically simplify liquidity provision on DEXes like Uniswap V3. Deposit just a single token from the desired pair, and our system defines the best price range, actively manages your position, and automatically reinvests swap fees, maximizing your returns and minimizing stress.
 
-*   **Simplicidade Radical:** Interfaces intuitivas e processos com poucos cliques.
-*   **Automação Inteligente:** Estratégias baseadas em dados que trabalham 24/7 por você.
-*   **Foco Educacional:** Acreditamos em capacitar nossos usuários com conhecimento.
-*   **Segurança como Prioridade:** Comprometidos com as melhores práticas e auditorias.
-*   **Visão de Ecossistema:** Planejamos ser o seu facilitador de estratégias, simplificando e integrando o melhor do universo DeFi.
+## 🚀 Key Differentiators
 
-## 🛠️ Status Atual do Projeto
+*   **Radical Simplicity:** Intuitive interfaces and few-click processes.
+*   **Intelligent Automation:** Data-driven strategies that work 24/7 for you.
+*   **Educational Focus:** We believe in empowering our users with knowledge.
+*   **Security as a Priority:** Committed to best practices and audits.
+*   **Ecosystem Vision:** We plan to be your DeFi strategy enabler, simplifying and integrating the best of the DeFi universe.
 
-O OinkSpace já possui uma versão funcional **(v.0.1.0-alpha.18)** operacional na mainnet [https://app.oinkspace.xyz/](https://app.oinkspace.xyz/). Esta versão alfa está sendo utilizada para testes, coleta de feedback e otimizações contínuas.
+## 🛠️ Current Project Status
 
-Estamos ativamente desenvolvendo a **OinkSpace V1**, que trará uma arquitetura baseada em **smart contracts auditados** para maior descentralização, segurança e interação não custodial, com foco inicial de lançamento na rede **Arbitrum One**.
+OinkSpace already has a functional version **(v.0.1.0-alpha.18)** operational on the mainnet: [https://app.oinkspace.xyz/](https://app.oinkspace.xyz/). This alpha version is being used for testing, feedback collection, and continuous optimization.
 
-## 🔗 Saiba Mais e Junte-se a Nós!
+We are actively developing **OinkSpace V1**, which will feature an architecture based on **audited smart contracts** for greater decentralization, security, and non-custodial interaction, with an initial launch focus on the **Arbitrum One** network.
 
-*   **Website Oficial:** [https://oinkspace.xyz/](https://oinkspace.xyz/)
-*   **Documentação Completa (GitBook):** [Apresentacao](https://oinkspace.gitbook.io/apresentacao)
-*   **Comunidade:**
-  *   Discord: [discord.gg/NmWShNByTv](https://discord.gg/NmWShNByTv)
+## 🔗 Learn More and Join Us!
+
+*   **Official Website:** [https://oinkspace.xyz/](https://oinkspace.xyz/)
+*   **Full Documentation (GitBook):** [https://oinkspace.gitbook.io/oinkspace](https://oinkspace.gitbook.io/oinkspace)
+*   **Community:**
+  *   Discord: [https://discord.gg/NmWShNByTv](https://discord.gg/NmWShNByTv)
   *   Twitter: [@OinkSpace_](https://x.com/OINKspace_)
-  *   LinkedIn: [linkedin.com/company/oinkspace](https://www.linkedin.com/company/oinkspace)
+  *   LinkedIn: [https://www.linkedin.com/company/oinkspace](https://www.linkedin.com/company/oinkspace)
 
-## 🗺️ Roteiro (Roadmap Resumido)
+## 🗺️ Roadmap (Summary)
 
-*   **Q3 2024 (Atual):** Fase Alfa, coleta de feedback, melhorias e correções.
-*   **Q4 2025:** Início do desenvolvimento dos Smart Contracts para V1.
-*   **Q2 2026:** Auditoria dos Smart Contracts V1, Lançamento da OinkSpace V1 (descentralizada) na Arbitrum.
-*   **2026:** Expansão de features (novas estratégias para o Stack, mais integrações de Pools), crescimento da comunidade, exploração de governança DAO.
+*   **Q3 2025 (Current):** Alpha phase live on Arbitrum, community building, feedback collection, and securing initial grant funding.
+*   **Q4 2025:** Commence V1 smart contract development (fueled by the grant). Finalize technical architecture and begin core protocol coding.
+*   **Q1 2026:** V1 smart contract testing on Arbitrum Testnet, engagement with security audit firms, and continuous frontend/backend integration.
+*   **Q2 2026:** Completion of V1 security audit and official launch of the decentralized OinkSpace V1 on Arbitrum One. Onboarding of first V1 users and initiation of growth campaigns.
